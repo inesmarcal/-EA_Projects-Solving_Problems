@@ -1,4 +1,4 @@
-# -EA_Projects-Solving_Problems
+# EA_Projects-Solving_Problems
 - [x] Finished
 
 ## Description:
